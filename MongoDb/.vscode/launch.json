@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-MongodbTestApplication<mongodb_test>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.mongodb_example.mongodb_test.MongodbTestApplication",
+            "projectName": "mongodb_test",
+            "args": ""
+        }
+    ]
+}
